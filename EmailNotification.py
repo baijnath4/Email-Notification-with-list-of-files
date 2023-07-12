@@ -16,7 +16,7 @@ def send_email(subject, body, to_email):
         print("An error occurred while sending the email:", str(e))
 
 # Set up the email parameters
-subject = "Notification"
+subject = "AVNET WCO list of decrypted files"
 # body = "This is a notification email sent using Python and Outlook."
 to_email = "baijkuma@in.ibm.com"
 # to_email_list = ["recipient1@example.com", "recipient2@example.com", "recipient3@example.com"]
